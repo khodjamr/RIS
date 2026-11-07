@@ -1,0 +1,14 @@
+INDEPENDENT FOURIER--GALERKIN VALIDATION SUMMARY
+
+Final half-order M: 256
+Worst protected-sector ratio (dB): -11.358177308554689
+Mean protected-sector ratio (dB): -13.111268097156268
+Worst sampled incidence (deg): 30
+Telemetry main-sector efficiency: 0.6257914680875073
+Telemetry 2-D directivity (dB): 13.0176467896252
+Telemetry peak sidelobe level (dB): -13.07754466229329
+Telemetry beam angle (deg): 2.
+Order-convergence and residual checks: PASS
+Cross-solver comparison within declared audit tolerances: PASS
+
+The Fourier--Galerkin result is an independent formulation. Exact equality with the midpoint MoM values is neither imposed nor expected.

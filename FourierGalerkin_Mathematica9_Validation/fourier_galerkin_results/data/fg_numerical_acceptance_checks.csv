@@ -1,0 +1,9 @@
+check,measured_absolute_change_or_residual,tolerance,unit,status
+final-two-order worst-sector change,0.03830050432316234,0.5,dB,PASS
+final-two-order mean-sector change,0.04828088958063326,0.5,dB,PASS
+final-two-order telemetry directivity change,0.0026194235171850266,0.2,dB,PASS
+final-two-order telemetry sidelobe change,0.03139026819179591,0.5,dB,PASS
+final-two-order beam-angle change,0.,0.5,deg,PASS
+final-two-order main-sector-efficiency change,0.0003597606970129341,0.01,absolute,PASS
+maximum final low-scattering projected residual,3.217851660550052e-15,1/10000000000,relative,PASS
+final telemetry projected residual,5.564453782740091e-15,1/10000000000,relative,PASS

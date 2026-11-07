@@ -1,0 +1,7 @@
+metric,fifth_percentile,median_fiftieth_percentile,ninety_fifth_percentile
+worst_protected_sector_power_db_relative_to_pec,-12.230932128076086,-10.91333338906512,-7.810325026900271
+mean_protected_sector_power_db_relative_to_pec,-14.237325961251024,-12.7773077954905,-11.284485541670701
+telemetry_main_sector_efficiency,0.6343996854968488,0.6455221445303477,0.6545356884282773
+telemetry_peak_sidelobe_level_db,-14.01141864473998,-13.482858197468223,-12.94547004911751
+telemetry_directivity_db,12.985590283006195,13.068850284362112,13.149842517838499
+telemetry_beam_angle_deg,1.,1.,1.
