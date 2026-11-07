@@ -4,10 +4,6 @@ This repository contains the Mathematica 9 code, numerical data, and figures ass
 
 > M. R. Khodja and G. A. Alomar, “Shared-State Inverse Synthesis of Dual-Mode Conformal Metasurfaces for Low Scattering and Telemetry,” 2026.
 
-The study considers a circular, 64-cell conformal impedance boundary with two electromagnetic operating modes. The low-scattering mode reduces monostatic scattering over several plane-wave incidences, whereas the telemetry mode forms a directive beam from an internal line source. Both modes use the same finite alphabet of eight passive impedance states, but each mode uses a different spatial codebook. Here, a *codebook* is the 64-entry assignment that specifies which impedance state is applied to each cell.
-
-The main contribution is the formulation and solution of this shared-state, dual-mode inverse problem. Inverse-source null-space freedom is used as a design mechanism, but null-space exploitation by itself is not the claimed novelty.
-
 ## Scope of the repository
 
 The calculations establish feasibility at the effective impedance-boundary level. They do not establish unit-cell, bias-network, switching-circuit, experimental, or platform-level realizability. The repository should therefore be interpreted as a reproducible computational study of the prescribed boundary model, not as an experimental validation package.
